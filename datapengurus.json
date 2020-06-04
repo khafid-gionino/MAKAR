@@ -1,0 +1,34 @@
+{
+    "profile":
+        [
+            {
+                "kategori": "Ketua",
+                "nama" : "nanang fahrudin",
+                "Deskripsi": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quaerat ratione laudantium doloremque nulla." ,
+                "gambar": "img/nanang.jpeg",
+                "web" : "../khafid"
+            },
+            {
+                "kategori": "Sekretaris",
+                "nama" : "Saiful Rizal",
+                "Deskripsi": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quaerat ratione laudantium doloremque nulla." ,
+                "gambar": "img/ipung.jpeg",
+                "web" : "http://muchammad-aziz.000webhostapp.com/"
+            },
+            {
+                "kategori": "Bendahara",
+                "nama" : "Sukma",
+                "Deskripsi": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quaerat ratione laudantium doloremque nulla." ,
+                "gambar": "img/linux.png",
+                "web" : "../khafid"
+            },
+            {
+                "kategori": "Kordinator",
+                "nama" : "ipung",
+                "Deskripsi": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quaerat ratione laudantium doloremque nulla." ,
+                "gambar": "img/linux.png",
+                "web" : "http://muchammad-aziz.000webhostapp.com/"
+            }
+        ]
+
+}
